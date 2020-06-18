@@ -1,3 +1,3 @@
 # YT-MyFirstProject
-# YT-MyFirstProject
-# YT-MyFirstProject
+
+Project video pengenalan android studio di youtube.
